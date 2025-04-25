@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A modern, responsive personal portfolio website to showcase your skills, projects, and professional information.
+A modern, responsive personal portfolio website to showcase my skills, projects, and professional information.
 
 ## Features
 
@@ -21,17 +21,17 @@ A modern, responsive personal portfolio website to showcase your skills, project
 
 ## Getting Started
 
-1. **Clone the repository:**
+1. Clone the repository:
    ```
    git clone https://github.com/yourusername/personal-portfolio.git
    ```
 
-2. **Navigate to the project folder:**
+2. Navigate to the project folder:
    ```
    cd personal-portfolio
    ```
 
-3. **Open the project:**
+3. Open the project:
    - Open the `index.html` file in your web browser to view the website locally.
    - Use a code editor like VS Code to make changes to the codebase.
 
@@ -84,4 +84,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this portfolio to make it your own and showcase your unique skills and projects! 
+Feel free to customize this portfolio to make it your own and showcase your unique skills and projects!
