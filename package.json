@@ -1,0 +1,20 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "A modern, responsive personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website",
+    "web-development"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
