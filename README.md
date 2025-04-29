@@ -1,5 +1,5 @@
 # Personal Portfolio Website
-
+Clone the repository: https://github.com/luhu18/luhu18.git
 A modern, responsive personal portfolio website to showcase my skills, projects, and professional information.
 
 ## Features
