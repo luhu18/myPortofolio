@@ -1,0 +1,16 @@
+{
+  "name": "Lucien Hussein Portfolio",
+  "short_name": "LH Portfolio",
+  "description": "Junior Web Developer and UI Designer Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./assets/upwork prof.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
